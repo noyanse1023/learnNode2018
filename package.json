@@ -1,0 +1,15 @@
+{
+  "name": "2018nodejs",
+  "version": "1.0.0",
+  "description": "```\r fs.appendFile('greeting.txt','hello world')\r ```\r ## url模块\r - parse the url\r `cosnt pathTrimed = url.parse(req.url, true).pathname.replace(/^\\/+|\\/+$/, '')`",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cross-env": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
